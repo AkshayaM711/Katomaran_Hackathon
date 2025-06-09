@@ -1,8 +1,4 @@
-Here’s a complete, clear, and minimal **`README.md`** for your **Katomaran Face Platform** project.
 
----
-
-```markdown
 # Katomaran Face Recognition Platform
 
 A real-time browser-based face recognition platform built with React.js (frontend), Node.js (API/WebSocket), and Python (face recognition logic) for the Katomaran AI Hackathon.
