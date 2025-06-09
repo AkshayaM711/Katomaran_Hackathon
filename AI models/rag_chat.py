@@ -8,7 +8,7 @@ from langchain.text_splitter import CharacterTextSplitter
 from langchain.document_loaders import CSVLoader
 
 # ✅ Set your Cerebras Cloud API key and endpoint
-os.environ["OPENAI_API_KEY"] = "csk-e35pfxtmemt2d9vv6vf3vmxkpjdy4kjpft3ndm69jntd8jjp"  # Replace with your actual key
+os.environ["OPENAI_API_KEY"] = "your_cerebras_api_key_here"  # Replace with your actual key
 os.environ["OPENAI_API_BASE"] = "https://api.cerebras.net/v1"
 
 # ✅ Load CSV file containing face recognition logs
